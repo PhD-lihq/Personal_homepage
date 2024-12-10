@@ -9,8 +9,8 @@ I am Li Haoqian.
 
 ### Programming Languages:
 
-<img src="https://img.shields.io/badge/python-blue" style="margin:5px" />
-<img src="https://img.shields.io/badge/shell-green" style="margin:5px" />
+<img src="https://img.shields.io/badge/python-blue" style="margin:5px" /><img src="https://img.shields.io/badge/shell-green" style="margin:5px" />
+
 
 ## - 🔭 I'm currently working on
 
