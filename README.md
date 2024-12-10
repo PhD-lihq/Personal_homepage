@@ -1,4 +1,4 @@
-# Personal_homepage
+# Personal homepage
 
 # 🙋‍♂️ Hi there
 
@@ -38,6 +38,3 @@ I am Li Haoqian.
 	</td>
   </tr>
 </table>
-
-
-
